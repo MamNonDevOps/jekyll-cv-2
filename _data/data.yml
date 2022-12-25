@@ -201,17 +201,17 @@ skills:
       - name: Python & Django
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Elixir & Erlang
+        level: 60%
 
-      - name: Angular
-        level: 98%
+      - name: NextJS & NodeJS
+        level: 70%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: HTML & CSS
+        level: 80%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: PHP & Magento
+        level: 50%
 
       - name: Data Structure and Algorithms
         level: 60%
