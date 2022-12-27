@@ -7,9 +7,9 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: AAAAAAAAAAAA
+    name: Nguyễn Văn Khôi
     tagline: DevOps engineer
-    avatar: profile111.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: khoi.nv@outlook.com
@@ -56,12 +56,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Software engineer with more than 2 years of experience in software development and commercial applications.
+      DevOps engineer with more 6 months on AWS cloud.
 education:
     title: Education
     info:
@@ -84,39 +80,17 @@ experiences:
         time: 2020 - 2021
         company: Luvina Software Joint Stock Company
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          Làm gì ở công ty này
       - role: Full Stack Developer
         time: 06/2021 - 06/2022
-        company: Pancake Company
+        company: Pancake
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Làm gì ở công ty này
       - role: DevOps Engineer
         time: 06/2022 - now
         company: SmartOSC
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Làm gì ở công ty này
 projects:
     title: Projects
     intro:
@@ -195,26 +169,49 @@ projects:
 #         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Technical skills &amp; Competencies
 
-    toolset:
-      - name: Python & Django
-        level: 98%
+    info:
+      - name: Operating System
+        details: Linux
 
-      - name: Elixir & Erlang
-        level: 60%
+      - name: Cloud providers
+        details: >
+          Amazon Web Services ((EC2, S3, Route 53, IAM, RDS, VPC,
+          CloudFront, Load Balancer, ECS, ECR, CloudWatch, CloudTrail,...)
 
-      - name: NextJS & NodeJS
-        level: 70%
+      - name: Infrastructure as Code
+        details: Terraform, CloudFormation
 
-      - name: HTML & CSS
-        level: 80%
+      - name: Configuration Management
+        details: Ansible
 
-      - name: PHP & Magento
-        level: 50%
+      - name: Monitoring and logging
+        details: CloudWatch, Prometheus, Grafana
 
-      - name: Data Structure and Algorithms
-        level: 60%
+      - name: CI/CD
+        details: AWS Code Pipeline, GitLab runners
+
+      - name: Container &amp; Orchestration
+        details: Docker, Kubernetes
+
+      - name: Web servers
+        details: Apache, Nginx
+
+      - name: Front end
+        details: HTML, CSS, JS, NextJS
+
+      - name: Back end
+        details: C/C++, Java, Cobol, PHP & Magento, Elixir & Phoenix
+
+      - name: Database
+        details: MySQL, PostgreSQL
+
+      - name: Source Control
+        details: Github, Gitlab
+
+      - name: Operate, maintenance and troubleshooting
+        details:
 
 certifications:
   title: Certifications

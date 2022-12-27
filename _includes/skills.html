@@ -27,5 +27,21 @@
 
   </div>
 
+  <div class="skillset2">
+    {% for skill in skills.info %}
+    <div class="item">
+
+      <span class="project-title">
+        {{ skill.name }}
+      </span>
+
+      {% if skill.details %}
+        -<span> {{ skill.details }}</span>
+      {% endif %}
+
+    </div>
+    {% endfor %}
+  </div>
+
 </section><!--//skills-section-->
 {% endif %}
