@@ -108,21 +108,21 @@ projects:
         responsibility: |
           - Develop functions of websites
           - Develop UI
-          - Design testcase
+          - Design test case
 
       - title: Shaho, Sisan
         link:
         tagline: Financial and banking website systems
         responsibility: |
           - Upgrade API based on existing system
-          - Design testcase
+          - Design test case
 
       - title: TDTW
         link:
         tagline:
         responsibility: |
           - Develop common components of websites
-          - Design testcase
+          - Design test case
 
       - title: Sea Fulfilment
         link:
