@@ -58,6 +58,7 @@ career-profile:
     summary: |
       Software engineer with more than 2 years of experience in software development and commercial applications.
       DevOps engineer with more 6 months on AWS cloud.
+      As in previous roles, I am looking for a position where I can create and deploy business solutions in a cloud environment.
 education:
     title: Education
     info:
@@ -80,52 +81,78 @@ experiences:
         time: 2020 - 2021
         company: Luvina Software Joint Stock Company
         details: |
-          Làm gì ở công ty này
+          - Building websites about e-commerce
+          - Maintaining websites about finance, banking
       - role: Full Stack Developer
         time: 06/2021 - 06/2022
         company: Pancake
         details: |
-          Làm gì ở công ty này
+          - Building websites about e-commerce
+          - Build features and utilities according to customers' needs in order management, product management...
       - role: DevOps Engineer
         time: 06/2022 - now
         company: SmartOSC
         details: |
-          Làm gì ở công ty này
+          - Monitor system and service
+          - Build infrastructure of systems
+          - Automate CI/CD
+          - Troubleshooting
+
 projects:
     title: Projects
     intro:
     assignments:
       - title: KMJ
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        link:
+        tagline: A website to manage construction materials, export and import equipments
+        responsibility: |
+          - Develop functions of websites
+          - Develop UI
+          - Design testcase
 
-      - title: Shaho
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Sisan
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Shaho, Sisan
+        link:
+        tagline: Financial and banking website systems
+        responsibility: |
+          - Upgrade API based on existing system
+          - Design testcase
 
       - title: TDTW
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        link:
+        tagline:
+        responsibility: |
+          - Develop common components of websites
+          - Design testcase
 
       - title: Sea Fulfillment
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        link:
+        tagline: A website to promote service brands
+        responsibility: |
+          - Desgin UI landing pages
+          - Develop UI
+          - Contact customers to receive requests for new features
 
       - title: POS Pancake
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        link:
+        tagline: Sales management solutions, warehouses suitable for both forms of online and offline business
+        responsibility: |
+          - Build features and utilities according to customers' needs in order management, product management
+          - Contact customers to receive requests for new features
 
-      - title: CMG
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: CMG, ASUS
+        link:
+        tagline:
+        responsibility: |
+          - Monitor system and service
+          - Create monthly report about metrics of system
 
       - title: SWiM
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        link:
+        tagline:
+        responsibility: |
+          - Create infrastructure of websites on AWS Cloud
+          - Automate the CI/CD using AWS Codepipeline
+          - Support developer team for troubleshooting
 
 # oss:
 #     title: OSS Contributions
@@ -202,7 +229,7 @@ skills:
         details: HTML, CSS, JS, NextJS
 
       - name: Back end
-        details: C/C++, Java, Cobol, PHP & Magento, Elixir & Phoenix
+        details: C/C++, Java, Cobol, PHP & Magento, Elixir
 
       - name: Database
         details: MySQL, PostgreSQL
@@ -218,7 +245,7 @@ certifications:
 
   info:
     - name: AWS Certified Cloud Practitioner
-      time: Aug 2022 - 2025
+      time: 08/2022 - 2025
 
 activities:
   title: Activities
