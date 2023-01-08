@@ -27,7 +27,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://github.com/MamNonDevOps/online-cv/raw/develop/pdf/mamnondevops-github-io-online-cv-.pdf
+    pdf: https://github.com/MamNonDevOps/online-cv/raw/develop/pdf/mamnondevops-github-io-online-cv.pdf
 
     languages:
       title: Languages
@@ -83,6 +83,8 @@ experiences:
         details: |
           - Building websites about e-commerce
           - Maintaining websites about finance, banking
+          - Review code
+          - Design testcase and build unit test
       - role: Full Stack Developer
         time: 06/2021 - 06/2022
         company: Pancake
@@ -102,34 +104,27 @@ projects:
     title: Projects
     intro:
     assignments:
-      - title: KMJ
-        link:
-        tagline: A website to manage construction materials, export and import equipments
-        responsibility: |
-          - Develop functions of websites
-          - Develop UI
-          - Design test case
-
-      - title: Shaho, Sisan
-        link:
-        tagline: Financial and banking website systems
-        responsibility: |
-          - Upgrade API based on existing system
-          - Design test case
-
-      - title: TDTW
+      - title: A website to manage construction materials
         link:
         tagline:
         responsibility: |
-          - Develop common components of websites
-          - Design test case
+          - Develop functions of websites
+          - Develop UI
+          - Design unit test
+
+      - title: Financial and banking website systems
+        link:
+        tagline:
+        responsibility: |
+          - Upgrade API based on existing system
+          - Design unit test
+          - Manual test
 
       - title: Sea Fulfilment
         link:
         tagline: A website to promote service brands
         responsibility: |
-          - Design UI landing pages
-          - Develop UI
+          - Design and develop UI landing pages
           - Contact customers to receive requests for new features
 
       - title: POS Pancake
