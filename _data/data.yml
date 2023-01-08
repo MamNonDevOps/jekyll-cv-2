@@ -211,7 +211,7 @@ skills:
         details: Terraform, CloudFormation
 
       - name: Configuration Management
-        details: Ansible
+        details: Ansible, Helm
 
       - name: Monitoring and logging
         details: CloudWatch, Prometheus, Grafana
@@ -235,7 +235,7 @@ skills:
         details: MySQL, PostgreSQL
 
       - name: Source Control
-        details: Github, Gitlab
+        details: Github, Gitlab, SVN
 
       - name: Operate, maintenance and troubleshooting
         details:
