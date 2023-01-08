@@ -27,7 +27,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://github.com/MamNonDevOps/online-cv/blob/develop/pdf/mamnondevops-github-io-online-cv-.pdf
+    pdf: https://github.com/MamNonDevOps/online-cv/raw/develop/pdf/mamnondevops-github-io-online-cv-.pdf
 
     languages:
       title: Languages
