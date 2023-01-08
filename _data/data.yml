@@ -199,8 +199,8 @@ skills:
 
       - name: Cloud providers
         details: >
-          Amazon Web Services ((EC2, S3, Route 53, IAM, RDS, VPC,
-          CloudFront, Load Balancer, ECS, ECR, CloudWatch, CloudTrail,...)
+          Amazon Web Services (EC2, S3, Route 53, IAM, RDS, VPC,
+          CloudFront, Load Balancer, ECS, ECR, CloudWatch, CloudTrail, ...)
 
       - name: Infrastructure as Code
         details: Terraform, CloudFormation
