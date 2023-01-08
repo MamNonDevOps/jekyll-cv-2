@@ -212,7 +212,7 @@ skills:
         details: CloudWatch, Prometheus, Grafana
 
       - name: CI/CD
-        details: AWS Code Pipeline, GitLab runners
+        details: AWS Code Pipeline, GitLab runners, Jenkins
 
       - name: Container &amp; Orchestration
         details: Docker, Kubernetes
