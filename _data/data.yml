@@ -58,7 +58,7 @@ career-profile:
     summary: |
       Software engineer with more than 2 years of experience in software development and commercial applications.
       DevOps engineer with more 6 months on AWS cloud.
-      As in previous roles, I am looking for a position where I can create and deploy business solutions in a cloud environment.
+      As in previous roles, I am looking for a position where I can create and deploy business solutions in hybrid cloud environment.
 education:
     title: Education
     info:
@@ -134,12 +134,20 @@ projects:
           - Build features and utilities according to customers' needs in order management, product management
           - Contact customers to receive requests for new features
 
-      - title: CMG, ASUS
+      - title: CMG, ASUS, SWiM, ...
         link:
         tagline:
         responsibility: |
+          - Create monitoring dashboard
           - Monitor system and service
           - Create monthly report about metrics of system
+
+      - title: ASUS
+        link:
+        tagline:
+        responsibility: |
+          - Create infrastructure for development environment
+          - Automate the CI/CD using Jenkins
 
       - title: SWiM
         link:
@@ -209,7 +217,7 @@ skills:
         details: Ansible, Helm
 
       - name: Monitoring and logging
-        details: CloudWatch, Prometheus, Grafana
+        details: CloudWatch, Prometheus, Grafana, ELK stack
 
       - name: CI/CD
         details: AWS Code Pipeline, GitLab runners, Jenkins
