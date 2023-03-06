@@ -134,19 +134,21 @@ projects:
           - Build features and utilities according to customers' needs in order management, product management
           - Contact customers to receive requests for new features
 
-      - title: CMG, ASUS, SWiM, ...
+      - title: CMG
         link:
         tagline:
         responsibility: |
           - Create monitoring dashboard
           - Monitor system and service
           - Create monthly report about metrics of system
+          - Cost Optimization
 
       - title: ASUS
         link:
         tagline:
         responsibility: |
-          - Create infrastructure for development environment
+          - Create infrastructure for development on Kubernetes environment
+          - Define, install, and upgrade applications running on Kubernetes
           - Automate the CI/CD using Jenkins
 
       - title: SWiM
@@ -241,6 +243,9 @@ skills:
         details: Github, Gitlab, SVN
 
       - name: Operate, maintenance and troubleshooting
+        details:
+
+      - name: Cloud Cost Optimization
         details:
 
 certifications:
