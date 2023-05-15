@@ -205,7 +205,7 @@ skills:
 
     info:
       - name: Operating System
-        details: Linux
+        details: Linux, Windows
 
       - name: Cloud providers
         details: >
@@ -228,7 +228,7 @@ skills:
         details: Docker, Kubernetes
 
       - name: Web servers
-        details: Apache, Nginx
+        details: Apache, Nginx, IIS, Tomcat
 
       - name: Front end
         details: HTML, CSS, JS, NextJS
@@ -237,7 +237,7 @@ skills:
         details: C/C++, Java, Cobol, PHP & Magento, Elixir
 
       - name: Database
-        details: MySQL, PostgreSQL
+        details: MySQL, PostgreSQL, Microsoft SQL
 
       - name: Source Control
         details: Github, Gitlab, SVN
